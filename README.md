@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+*heroku runnings
+#heroku create
+
+#git push hetoku master
+
+#heroku run rails db:migrate
